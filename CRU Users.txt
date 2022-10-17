@@ -1,3 +1,0 @@
-mcrg_med_cru
-mcrg_ssu_cnp
-mcrg_cnp_files
